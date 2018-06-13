@@ -1,0 +1,5 @@
+public class Wish {
+public void wish(String name) {
+System.out.println("Hello "+name);
+}
+}
